@@ -1,0 +1,1 @@
+{"name":"Local: MinimumLCM","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\cp\\MinimumLCM.java","tests":[{"id":1756485445918,"input":"4\n2\n9\n5\n10","output":"1 1\n3 6\n1 4\n5 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\cp\\MinimumLCM.java","group":"local","local":true}
