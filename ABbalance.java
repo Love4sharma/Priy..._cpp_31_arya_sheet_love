@@ -21,7 +21,7 @@ public class ABbalance {
                         while (c1 > c2) {
                               int index = sb.toString().lastIndexOf("ab");
                               if (index != -1) {
-                                    sb.setCharAt(index+1, 'a');
+                                    sb.setCharAt(index + 1, 'a');
                               }
                               c1--;
                         }
@@ -31,12 +31,13 @@ public class ABbalance {
                         while (c2 > c1) {
                               int index = sb.toString().lastIndexOf("ba");
                               if (index != -1) {
-                                    sb.setCharAt(index+1, 'b');
+                                    sb.setCharAt(index + 1, 'b');
                               }
                               c2--;
                         }
                         System.out.println(sb.toString());
                   }
+                  sc.close();
 
             }
       }
